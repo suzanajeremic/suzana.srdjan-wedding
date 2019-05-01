@@ -71,11 +71,11 @@ body{
 #invitate{
   
     font-size: 170%;
-    color: #a3a3a3;
+    color: #b30000;
     font-family: 'Lato';
     text-align: center;
     margin-top: 30px;
-    font-weight: 600;
+    
     
 }
 @media only screen and (max-width: 800px) {
