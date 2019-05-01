@@ -38,14 +38,15 @@ body{
     font-family: 'Lato';
     color: #000000;
     text-align: center;
-   margin-bottom: 20px;
+   
+  
   
 }
 #imena{
     font-family: 'Lato';
     font-size: 700%;
     color: #363636;
-   
+  
   
   
 }
@@ -54,9 +55,10 @@ body{
     font-family: 'Lato';
     color: #000000;
     text-align: center;
-    margin-top: -30px;
-    margin-bottom: 20px;
-    font-weight: 500;
+    margin-top: -40px;
+  
+  
+
     
 }
 #datum{
