@@ -96,11 +96,10 @@ body{
     
 }
 @media only screen and (max-width: 800px) {
-   
-   
+  
     #imena{
-        font-size: 350%;
-        line-height: 60px;
+        font-size: 500%;
+        line-height: 80px;
         margin-bottom: 50px;
      
     }
@@ -110,11 +109,12 @@ body{
        
     }
     #tekst{
-        font-size: 120%;
+        font-size: 150%;
+        margin-bottom: 20px;
    
     }
     #podNaslov{
-        font-size: 150%;
+        font-size: 130%;
     }
     #invitate{
         font-size: 120%;
